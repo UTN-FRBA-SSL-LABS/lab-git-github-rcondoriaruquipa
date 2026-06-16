@@ -437,7 +437,6 @@ d) Pedirle al owner que mergee igual y hacer el fix en un PR separado
 ```
 RESPUESTA_P2=b
 ```
-=======
 ```
 PARTE_II_COMPLETA=SI
 ```
